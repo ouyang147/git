@@ -1,0 +1,8 @@
+上传步骤:
+例如:
+# git init
+# git add mysql.doc
+# git commit -m "wrote a readme file"
+# git remote rm origin
+# git remote add origin https://github.com/ouyang147/mysql.doc.git
+# git push -u origin master
